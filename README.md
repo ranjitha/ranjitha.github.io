@@ -1,2 +1,2 @@
-# anjanragh.github.io
-My professional website. Kinda.
+# ranjitha.github.io
+Portfolio website.
